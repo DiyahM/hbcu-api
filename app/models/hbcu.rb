@@ -1,0 +1,2 @@
+class Hbcu < ApplicationRecord
+end
