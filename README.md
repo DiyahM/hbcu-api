@@ -10,4 +10,4 @@
 1. Copy `config/database.yml.example` to `config/database.yml`
 2. Install dependencies with `bundle install`
 3. Set up the database with `rake db:setup`
-4. Run the app with `rails s`
+4. Run the app with `heroku local`
